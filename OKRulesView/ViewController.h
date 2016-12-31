@@ -2,7 +2,7 @@
 //  ViewController.h
 //  OKRulesView
 //
-//  Created by SHB on 16/7/30.
+//  Created by Herb on 16/7/30.
 //  Copyright © 2016年 Herb. All rights reserved.
 //
 
